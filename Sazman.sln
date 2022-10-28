@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sazman.API", "Sazman.API\Sazman.API.csproj", "{AC6F5695-6AB2-475D-AF6A-6D43D190A733}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sazman.DataModels", "Sazman.DataModels\Sazman.DataModels.csproj", "{952B9DF2-9C08-4BDB-9523-2FADC9C7041F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sazman.Tests", "Sazman.Tests\Sazman.Tests.csproj", "{B4038F3C-60DD-415A-A5A8-C2D32E5727AF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A77BECAB-20B9-44B2-9FC8-6637D83BE0F3}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC6F5695-6AB2-475D-AF6A-6D43D190A733}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6F5695-6AB2-475D-AF6A-6D43D190A733}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6F5695-6AB2-475D-AF6A-6D43D190A733}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6F5695-6AB2-475D-AF6A-6D43D190A733}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952B9DF2-9C08-4BDB-9523-2FADC9C7041F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952B9DF2-9C08-4BDB-9523-2FADC9C7041F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952B9DF2-9C08-4BDB-9523-2FADC9C7041F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952B9DF2-9C08-4BDB-9523-2FADC9C7041F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4038F3C-60DD-415A-A5A8-C2D32E5727AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4038F3C-60DD-415A-A5A8-C2D32E5727AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4038F3C-60DD-415A-A5A8-C2D32E5727AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4038F3C-60DD-415A-A5A8-C2D32E5727AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E236E4C-E7DD-41E4-A8EA-014A42A069B3}
+	EndGlobalSection
+EndGlobal
